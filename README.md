@@ -1,2 +1,2 @@
 # learn-redux
-Learn Redux Toolkit, Redux Thunk, and RTQ
+Learn Redux Toolkit, Redux Thunk, and RTQ Query
